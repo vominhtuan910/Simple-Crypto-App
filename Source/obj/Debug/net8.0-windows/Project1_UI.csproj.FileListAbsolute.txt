@@ -1,0 +1,73 @@
+E:\KHTN\An ninh máy tính\Csharp\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.Dec_Page.resources
+E:\KHTN\An ninh máy tính\Csharp\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.Enc_Page.resources
+E:\KHTN\An ninh máy tính\Csharp\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.Home.resources
+E:\KHTN\An ninh máy tính\Csharp\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.csproj.GenerateResource.cache
+E:\KHTN\An ninh máy tính\Csharp\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.GeneratedMSBuildEditorConfig.editorconfig
+E:\KHTN\An ninh máy tính\Csharp\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.AssemblyInfoInputs.cache
+E:\KHTN\An ninh máy tính\Csharp\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.AssemblyInfo.cs
+E:\KHTN\An ninh máy tính\Csharp\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.csproj.CoreCompileInputs.cache
+E:\KHTN\An ninh máy tính\Csharp\Project1_UI\bin\Debug\net8.0-windows\Project1_UI.exe
+E:\KHTN\An ninh máy tính\Csharp\Project1_UI\bin\Debug\net8.0-windows\Project1_UI.deps.json
+E:\KHTN\An ninh máy tính\Csharp\Project1_UI\bin\Debug\net8.0-windows\Project1_UI.runtimeconfig.json
+E:\KHTN\An ninh máy tính\Csharp\Project1_UI\bin\Debug\net8.0-windows\Project1_UI.dll
+E:\KHTN\An ninh máy tính\Csharp\Project1_UI\bin\Debug\net8.0-windows\Project1_UI.pdb
+E:\KHTN\An ninh máy tính\Csharp\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.dll
+E:\KHTN\An ninh máy tính\Csharp\Project1_UI\obj\Debug\net8.0-windows\refint\Project1_UI.dll
+E:\KHTN\An ninh máy tính\Csharp\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.pdb
+E:\KHTN\An ninh máy tính\Csharp\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.genruntimeconfig.cache
+E:\KHTN\An ninh máy tính\Csharp\Project1_UI\obj\Debug\net8.0-windows\ref\Project1_UI.dll
+C:\Users\bestc\OneDrive\Máy tính\CryptoApp1\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.Dec_Page.resources
+C:\Users\bestc\OneDrive\Máy tính\CryptoApp1\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.Enc_Page.resources
+C:\Users\bestc\OneDrive\Máy tính\CryptoApp1\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.Home.resources
+C:\Users\bestc\OneDrive\Máy tính\CryptoApp1\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.csproj.GenerateResource.cache
+C:\Users\bestc\OneDrive\Máy tính\CryptoApp1\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bestc\OneDrive\Máy tính\CryptoApp1\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.AssemblyInfoInputs.cache
+C:\Users\bestc\OneDrive\Máy tính\CryptoApp1\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.AssemblyInfo.cs
+C:\Users\bestc\OneDrive\Máy tính\CryptoApp1\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.csproj.CoreCompileInputs.cache
+C:\Users\bestc\OneDrive\Máy tính\CryptoApp1\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.sourcelink.json
+C:\Users\bestc\OneDrive\Máy tính\CryptoApp1\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.dll
+C:\Users\bestc\OneDrive\Máy tính\CryptoApp1\Project1_UI\obj\Debug\net8.0-windows\refint\Project1_UI.dll
+C:\Users\bestc\OneDrive\Máy tính\CryptoApp1\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.pdb
+C:\Users\bestc\OneDrive\Máy tính\CryptoApp1\Project1_UI\bin\Debug\net8.0-windows\Project1_UI.exe
+C:\Users\bestc\OneDrive\Máy tính\CryptoApp1\Project1_UI\bin\Debug\net8.0-windows\Project1_UI.deps.json
+C:\Users\bestc\OneDrive\Máy tính\CryptoApp1\Project1_UI\bin\Debug\net8.0-windows\Project1_UI.runtimeconfig.json
+C:\Users\bestc\OneDrive\Máy tính\CryptoApp1\Project1_UI\bin\Debug\net8.0-windows\Project1_UI.dll
+C:\Users\bestc\OneDrive\Máy tính\CryptoApp1\Project1_UI\bin\Debug\net8.0-windows\Project1_UI.pdb
+C:\Users\bestc\OneDrive\Máy tính\CryptoApp1\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.genruntimeconfig.cache
+C:\Users\bestc\OneDrive\Máy tính\CryptoApp1\Project1_UI\obj\Debug\net8.0-windows\ref\Project1_UI.dll
+C:\Users\Admin\Downloads\ComputerSecurity_Project1-backup\ComputerSecurity_Project1-backup\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.dll
+C:\Users\Admin\Downloads\ComputerSecurity_Project1-backup\ComputerSecurity_Project1-backup\Project1_UI\obj\Debug\net8.0-windows\refint\Project1_UI.dll
+C:\Users\Admin\Downloads\ComputerSecurity_Project1-backup\ComputerSecurity_Project1-backup\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.pdb
+C:\Users\Admin\Downloads\ComputerSecurity_Project1-backup\ComputerSecurity_Project1-backup\Project1_UI\bin\Debug\net8.0-windows\Project1_UI.exe
+C:\Users\Admin\Downloads\ComputerSecurity_Project1-backup\ComputerSecurity_Project1-backup\Project1_UI\bin\Debug\net8.0-windows\Project1_UI.deps.json
+C:\Users\Admin\Downloads\ComputerSecurity_Project1-backup\ComputerSecurity_Project1-backup\Project1_UI\bin\Debug\net8.0-windows\Project1_UI.runtimeconfig.json
+C:\Users\Admin\Downloads\ComputerSecurity_Project1-backup\ComputerSecurity_Project1-backup\Project1_UI\bin\Debug\net8.0-windows\Project1_UI.dll
+C:\Users\Admin\Downloads\ComputerSecurity_Project1-backup\ComputerSecurity_Project1-backup\Project1_UI\bin\Debug\net8.0-windows\Project1_UI.pdb
+C:\Users\Admin\Downloads\ComputerSecurity_Project1-backup\ComputerSecurity_Project1-backup\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.Dec_Page.resources
+C:\Users\Admin\Downloads\ComputerSecurity_Project1-backup\ComputerSecurity_Project1-backup\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.Enc_Page.resources
+C:\Users\Admin\Downloads\ComputerSecurity_Project1-backup\ComputerSecurity_Project1-backup\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.Home.resources
+C:\Users\Admin\Downloads\ComputerSecurity_Project1-backup\ComputerSecurity_Project1-backup\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\ComputerSecurity_Project1-backup\ComputerSecurity_Project1-backup\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\ComputerSecurity_Project1-backup\ComputerSecurity_Project1-backup\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\ComputerSecurity_Project1-backup\ComputerSecurity_Project1-backup\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.AssemblyInfo.cs
+C:\Users\Admin\Downloads\ComputerSecurity_Project1-backup\ComputerSecurity_Project1-backup\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\ComputerSecurity_Project1-backup\ComputerSecurity_Project1-backup\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.genruntimeconfig.cache
+C:\Users\Admin\Downloads\ComputerSecurity_Project1-backup\ComputerSecurity_Project1-backup\Project1_UI\obj\Debug\net8.0-windows\ref\Project1_UI.dll
+C:\Users\Admin\Downloads\ComputerSecurity_Project1-backup (1)\ComputerSecurity_Project1-backup\Project1_UI\bin\Debug\net8.0-windows\Project1_UI.exe
+C:\Users\Admin\Downloads\ComputerSecurity_Project1-backup (1)\ComputerSecurity_Project1-backup\Project1_UI\bin\Debug\net8.0-windows\Project1_UI.deps.json
+C:\Users\Admin\Downloads\ComputerSecurity_Project1-backup (1)\ComputerSecurity_Project1-backup\Project1_UI\bin\Debug\net8.0-windows\Project1_UI.runtimeconfig.json
+C:\Users\Admin\Downloads\ComputerSecurity_Project1-backup (1)\ComputerSecurity_Project1-backup\Project1_UI\bin\Debug\net8.0-windows\Project1_UI.dll
+C:\Users\Admin\Downloads\ComputerSecurity_Project1-backup (1)\ComputerSecurity_Project1-backup\Project1_UI\bin\Debug\net8.0-windows\Project1_UI.pdb
+C:\Users\Admin\Downloads\ComputerSecurity_Project1-backup (1)\ComputerSecurity_Project1-backup\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.Dec_Page.resources
+C:\Users\Admin\Downloads\ComputerSecurity_Project1-backup (1)\ComputerSecurity_Project1-backup\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.Enc_Page.resources
+C:\Users\Admin\Downloads\ComputerSecurity_Project1-backup (1)\ComputerSecurity_Project1-backup\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.Home.resources
+C:\Users\Admin\Downloads\ComputerSecurity_Project1-backup (1)\ComputerSecurity_Project1-backup\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\ComputerSecurity_Project1-backup (1)\ComputerSecurity_Project1-backup\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\ComputerSecurity_Project1-backup (1)\ComputerSecurity_Project1-backup\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\ComputerSecurity_Project1-backup (1)\ComputerSecurity_Project1-backup\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.AssemblyInfo.cs
+C:\Users\Admin\Downloads\ComputerSecurity_Project1-backup (1)\ComputerSecurity_Project1-backup\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\ComputerSecurity_Project1-backup (1)\ComputerSecurity_Project1-backup\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.dll
+C:\Users\Admin\Downloads\ComputerSecurity_Project1-backup (1)\ComputerSecurity_Project1-backup\Project1_UI\obj\Debug\net8.0-windows\refint\Project1_UI.dll
+C:\Users\Admin\Downloads\ComputerSecurity_Project1-backup (1)\ComputerSecurity_Project1-backup\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.pdb
+C:\Users\Admin\Downloads\ComputerSecurity_Project1-backup (1)\ComputerSecurity_Project1-backup\Project1_UI\obj\Debug\net8.0-windows\Project1_UI.genruntimeconfig.cache
+C:\Users\Admin\Downloads\ComputerSecurity_Project1-backup (1)\ComputerSecurity_Project1-backup\Project1_UI\obj\Debug\net8.0-windows\ref\Project1_UI.dll

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bestc\\OneDrive\\M\u00E1y t\u00EDnh\\CryptoApp1\\Project1_UI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D45EC994-2405-4929-94EC-F4B524E5B716}|Project1_UI.csproj|c:\\users\\bestc\\onedrive\\m\u00E1y t\u00EDnh\\cryptoapp1\\project1_ui\\dec_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45EC994-2405-4929-94EC-F4B524E5B716}|Project1_UI.csproj|solutionrelative:dec_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45EC994-2405-4929-94EC-F4B524E5B716}|Project1_UI.csproj|c:\\users\\bestc\\onedrive\\m\u00E1y t\u00EDnh\\cryptoapp1\\project1_ui\\enc_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45EC994-2405-4929-94EC-F4B524E5B716}|Project1_UI.csproj|solutionrelative:enc_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enc_Page.cs",
+              "DocumentMoniker": "C:\\Users\\bestc\\OneDrive\\M\u00E1y t\u00EDnh\\CryptoApp1\\Project1_UI\\Enc_Page.cs",
+              "RelativeDocumentMoniker": "Enc_Page.cs",
+              "ToolTip": "C:\\Users\\bestc\\OneDrive\\M\u00E1y t\u00EDnh\\CryptoApp1\\Project1_UI\\Enc_Page.cs",
+              "RelativeToolTip": "Enc_Page.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAxwDQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "",
+              "WhenOpened": "2024-06-22T16:09:44.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dec_Page.cs",
+              "DocumentMoniker": "C:\\Users\\bestc\\OneDrive\\M\u00E1y t\u00EDnh\\CryptoApp1\\Project1_UI\\Dec_Page.cs",
+              "RelativeDocumentMoniker": "Dec_Page.cs",
+              "ToolTip": "C:\\Users\\bestc\\OneDrive\\M\u00E1y t\u00EDnh\\CryptoApp1\\Project1_UI\\Dec_Page.cs",
+              "RelativeToolTip": "Dec_Page.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAYwCEAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T10:22:42.921Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
